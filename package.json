@@ -1,0 +1,33 @@
+{
+  "name": "natds-landing",
+  "version": "0.0.0",
+  "description": "A landing page for Natds resource links",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natura-cosmeticos/natds-landing.git"
+  },
+  "keywords": [
+    "lading",
+    "natds",
+    "links"
+  ],
+  "author": {
+    "name": "Natura Design System",
+    "email": "designsystem@natura.net"
+  },
+  "contributors": [
+    {
+      "name": "Ariel Flor",
+      "email": "aflor@thoughtworks.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natura-cosmeticos/natds-landing/issues"
+  },
+  "homepage": "https://github.com/natura-cosmeticos/natds-landing#readme"
+}
