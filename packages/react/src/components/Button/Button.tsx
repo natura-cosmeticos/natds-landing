@@ -1,7 +1,7 @@
 import React from 'react'
 import { ButtonProps } from './Button.props'
-import { Icon } from '../Icon'
 import { Ripple } from '../Ripple'
+import { Icon } from '../Icon'
 import styles from './Button.styles'
 
 export const checkIconColor = (variant: string, isDisabled: boolean) => (isDisabled && variant !== 'contained' ? 'mediumEmphasis' : 'highEmphasis')
